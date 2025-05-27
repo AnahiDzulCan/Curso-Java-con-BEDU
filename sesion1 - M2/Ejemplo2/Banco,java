@@ -1,0 +1,22 @@
+import java.util.List;
+
+public class Banco{
+
+    // ? -> Sig. cualquier tipo (similar a poner T,X, etc)
+    //
+
+    public static void verCuentas(List<?> cuentas){
+        for(Object o : cuentas){
+            System.out.println(o);
+        }
+    }
+
+    public static void vertTitulares(List<? extends CuentaBancaria> cuentas){
+        for(CuentaBancaria o : cuentas){
+            System.out.println(o.getTitular);
+        }
+    }
+}
+
+// No usamos tipo <t>, usamor el ? para decir que la lsiat es de absolutamente todo. 
+//Extends se utiliza unicamente para lectura
