@@ -1,3 +1,0 @@
-Tiempo de ciclo: 55.8 segundos
-Velocidad de línea: 1.2 m/s
-Número de estaciones: 8
