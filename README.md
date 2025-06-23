@@ -17,7 +17,6 @@ Como se menciono anteriormente este curso de dividio en dos momentos los cuales 
    * etc...
 
 ## ¿Qué aprendí?
-## Actividades realizadas
-## Retos enfrentados
-## Conclusión
+Gracias, por todo lo enseñado en este curso, espero seguir aprendiendo.
+
 
