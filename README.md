@@ -17,6 +17,15 @@ Como se menciono anteriormente este curso de dividio en dos momentos los cuales 
    * etc...
 
 ## ¿Qué aprendí?
-Gracias, por todo lo enseñado en este curso, espero seguir aprendiendo.
+Hoy cierro una etapa muy especial. Comencé este camino con curiosidad y nervios, sin saber qué significaban palabras como clases, objetos o hilos, pero con cada línea de código que escribí, descubrí que la programación es más que una herramienta: es una forma de pensar y crear.
+
+Durante este tiempo aprendí:
+A estructurar soluciones con lógica y paciencia.
+A reutilizar código usando clases, métodos y herencia.
+A trabajar con colecciones, flujos (Stream) y programación reactiva.
+A no rendirme cuando aparecía un error… porque cada error fue una lección.
+
+Gracias, Java, por enseñarme a resolver problemas, a pensar de forma ordenada y a creer que puedo construir cosas increíbles desde cero.
+Esta despedida no es un adiós, sino un “nos vemos pronto”. Porque sé que seguiré aprendiendo, y que este lenguaje seguirá acompañándome donde haya una idea por programar.
 
 
